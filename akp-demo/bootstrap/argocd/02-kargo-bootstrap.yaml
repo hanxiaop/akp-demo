@@ -8,8 +8,8 @@ metadata:
 spec:
   project: akp-demo
   source:
-    repoURL: https://github.com/akuity/akp-demo.git
-    targetRevision: HEAD
+    repoURL: https://github.com/hanxiaop/akp-demo.git
+    targetRevision: main
     path: akp-demo/bootstrap/kargo
   destination:
     name: kargo
